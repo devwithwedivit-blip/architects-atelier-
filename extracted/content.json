@@ -1,0 +1,786 @@
+{
+  "source": {
+    "captured_html": "d:\\architects atelier\\architect atelier\\architectsatelier.net\\index.html",
+    "motion_logo_html": "d:\\architects atelier\\architect atelier\\Architects Atelier – Motion Logo.html",
+    "live_url": "https://architectsatelier.net/",
+    "note": "Only the homepage (index.html) and Motion Logo.html were available in the capture; 14 linked internal sub-pages were not captured and live crawling of architectsatelier.net is gated by an HTTP 403 anti-bot challenge."
+  },
+  "pages": [
+    {
+      "url": "https://architectsatelier.net/",
+      "path": "/",
+      "title": "Architects Atelier: Architects in Greater Noida | Architects Atelier",
+      "meta": [
+        {
+          "charset": "utf-8"
+        },
+        {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1.0"
+        },
+        {
+          "name": "generator",
+          "content": "Hostinger AI Builder"
+        },
+        {
+          "name": "description",
+          "content": "Architects Atelier, founded in 2004 by Ar. Mamta Saini and Ar. Gaurav Saini, is a Greater Noida-based architectural and design firm committed to enhancing quality of life through thoughtful, human-centric design solutions. We re the Best Architects In Greater Noida."
+        },
+        {
+          "content": "https://architectsatelier.net/",
+          "property": "og:url"
+        },
+        {
+          "content": "Architects Atelier: Architects in Greater Noida  | Architects Atelier",
+          "property": "og:title"
+        },
+        {
+          "name": "twitter:title",
+          "content": "Architects Atelier: Architects in Greater Noida  | Architects Atelier"
+        },
+        {
+          "content": "website",
+          "property": "og:type"
+        },
+        {
+          "property": "og:description",
+          "content": "Architects Atelier, founded in 2004 by Ar. Mamta Saini and Ar. Gaurav Saini, is a Greater Noida-based architectural and design firm committed to enhancing quality of life through thoughtful, human-centric design solutions. We re the Best Architects In Greater Noida."
+        },
+        {
+          "name": "twitter:description",
+          "content": "Architects Atelier, founded in 2004 by Ar. Mamta Saini and Ar. Gaurav Saini, is a Greater Noida-based architectural and design firm committed to enhancing quality of life through thoughtful, human-centric design solutions. We re the Best Architects In Greater Noida."
+        },
+        {
+          "property": "og:site_name",
+          "content": "Architects Atelier"
+        },
+        {
+          "name": "keywords",
+          "content": "Architects in Greater Noida, Best architecture firms in Noida, Modern architecture design India"
+        },
+        {
+          "content": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/m7VbV7Xzo2ue48xJ/screenshot-2025-06-14-173312-Yg2yPnpP5zSJWZpb.png",
+          "property": "og:image"
+        },
+        {
+          "content": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/m7VbV7Xzo2ue48xJ/screenshot-2025-06-14-173312-Yg2yPnpP5zSJWZpb.png",
+          "name": "twitter:image"
+        },
+        {
+          "content": "",
+          "property": "og:image:alt"
+        },
+        {
+          "content": "",
+          "name": "twitter:image:alt"
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "name": "google-site-verification",
+          "content": "pYO_IgIkdZk3lG4MPHXsg8l9bHHBKPVGLKKRoB1CnLM"
+        }
+      ],
+      "head_links": [
+        {
+          "rel": "icon",
+          "type": "image/png",
+          "sizes": "16x16",
+          "href": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=16,h=16,fit=crop,f=png/m7VbV7Xzo2ue48xJ/whatsapp-image-2026-03-27-at-2.45.38-pm-CAO5zePbqLmJolyo.jpeg"
+        },
+        {
+          "rel": "icon",
+          "type": "image/png",
+          "sizes": "32x32",
+          "href": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=32,h=32,fit=crop,f=png/m7VbV7Xzo2ue48xJ/whatsapp-image-2026-03-27-at-2.45.38-pm-CAO5zePbqLmJolyo.jpeg"
+        },
+        {
+          "rel": "icon",
+          "type": "image/png",
+          "sizes": "192x192",
+          "href": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/m7VbV7Xzo2ue48xJ/whatsapp-image-2026-03-27-at-2.45.38-pm-CAO5zePbqLmJolyo.jpeg"
+        },
+        {
+          "rel": "apple-touch-icon",
+          "href": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=180,h=180,fit=crop,f=png/m7VbV7Xzo2ue48xJ/whatsapp-image-2026-03-27-at-2.45.38-pm-CAO5zePbqLmJolyo.jpeg"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://architectsatelier.net/"
+        }
+      ],
+      "header": {
+        "links": [
+          {
+            "text": "",
+            "href": "/"
+          },
+          {
+            "text": "Home",
+            "href": "/"
+          },
+          {
+            "text": "About Us",
+            "href": "/about-architects-atelier"
+          },
+          {
+            "text": "Team",
+            "href": "/meet-our-team"
+          },
+          {
+            "text": "Projects",
+            "href": "/types-of-projects"
+          },
+          {
+            "text": "Healthcare",
+            "href": "/healthcare-projects"
+          },
+          {
+            "text": "Residential",
+            "href": "/residential-projects"
+          },
+          {
+            "text": "Institutional",
+            "href": "/institutional-projects"
+          },
+          {
+            "text": "Hospitality",
+            "href": "/hospitality-projects"
+          },
+          {
+            "text": "Commercial",
+            "href": "/commercial-projects"
+          },
+          {
+            "text": "Interior",
+            "href": "/interior-projects"
+          },
+          {
+            "text": "Work With Us",
+            "href": "/work-with-us"
+          },
+          {
+            "text": "Contact Us",
+            "href": "/contact-us"
+          },
+          {
+            "text": "Blog",
+            "href": "https://blog.architectsatelier.net/"
+          },
+          {
+            "text": "Architects in Noida",
+            "href": "/architects-in-noida"
+          },
+          {
+            "text": "",
+            "href": "https://www.facebook.com/p/Architects-Atelier-100064176935537/"
+          },
+          {
+            "text": "",
+            "href": "https://www.instagram.com/architects.atelier?igsh=OThjZnhmcmxvdnRu"
+          },
+          {
+            "text": "",
+            "href": "https://in.linkedin.com/company/architectsatelier"
+          },
+          {
+            "text": "",
+            "href": "https://g.page/r/CTg5TviJS5s4EAQ/review"
+          }
+        ],
+        "images": [
+          {
+            "alt": "Architects Atelier logo",
+            "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/m7VbV7Xzo2ue48xJ/whatsapp-image-2025-06-16-at-11.39.13-am-copy-A1a5l7PQlxTn7D7R.png",
+            "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/whatsapp-image-2025-06-16-at-11.39.13-am-copy-A1a5l7PQlxTn7D7R.png"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "index": 1,
+          "id": "HI7mb9Kr0XcX6xSBE6lQU",
+          "label": "Section 1 (HI7mb9Kr0XcX6xSBE6lQU)",
+          "headings": [],
+          "paragraphs": [],
+          "links": [],
+          "buttons": [],
+          "form_fields": [],
+          "iframes": [],
+          "images": [
+            {
+              "alt": "",
+              "src": "https://i.ytimg.com/vi/oC4NB6hxPWg/hqdefault.jpg",
+              "original_url": "https://i.ytimg.com/vi/oC4NB6hxPWg/hqdefault.jpg"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/img_4018-YrDJXGj7Z8hbnNZw.GIF",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/img_4018-YrDJXGj7Z8hbnNZw.GIF"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/img_3987-A3Q7rBqr71CNV2n0.GIF",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/img_3987-A3Q7rBqr71CNV2n0.GIF"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/img_4011-mv0JlKJxDjUv4Eex.GIF",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/img_4011-mv0JlKJxDjUv4Eex.GIF"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "id": "zWk7DK",
+          "label": "Our Projects",
+          "headings": [
+            "Our Projects"
+          ],
+          "paragraphs": [],
+          "links": [],
+          "buttons": [],
+          "form_fields": [],
+          "iframes": [],
+          "images": []
+        },
+        {
+          "index": 3,
+          "id": "zSbrFi",
+          "label": "Section 3 (zSbrFi)",
+          "headings": [],
+          "paragraphs": [],
+          "links": [
+            {
+              "text": "",
+              "href": "/institutional-projects"
+            },
+            {
+              "text": "",
+              "href": "/institutional-projects"
+            },
+            {
+              "text": "",
+              "href": "/commercial-projects"
+            },
+            {
+              "text": "",
+              "href": "/commercial-projects"
+            },
+            {
+              "text": "",
+              "href": "/healthcare-projects"
+            },
+            {
+              "text": "",
+              "href": "/healthcare-projects"
+            },
+            {
+              "text": "",
+              "href": "/hospitality-projects"
+            },
+            {
+              "text": "",
+              "href": "/hospitality-projects"
+            },
+            {
+              "text": "",
+              "href": "/interior-projects"
+            },
+            {
+              "text": "",
+              "href": "/interior-projects"
+            },
+            {
+              "text": "",
+              "href": "/residential-projects"
+            },
+            {
+              "text": "",
+              "href": "/residential-projects"
+            }
+          ],
+          "buttons": [],
+          "form_fields": [],
+          "iframes": [],
+          "images": [
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=1022,fit=crop/m7VbV7Xzo2ue48xJ/1-AVLa348y5lFJvWPR.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/1-AVLa348y5lFJvWPR.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=1056,fit=crop/m7VbV7Xzo2ue48xJ/4-mnlJn08LVGcZwRjG.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/4-mnlJn08LVGcZwRjG.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=1093,fit=crop/m7VbV7Xzo2ue48xJ/2-mk3J8X6a59fBn2l5.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/2-mk3J8X6a59fBn2l5.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=1093,fit=crop/m7VbV7Xzo2ue48xJ/5-ALpPBz5qNxhGZklJ.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/5-ALpPBz5qNxhGZklJ.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=1032,fit=crop/m7VbV7Xzo2ue48xJ/6-Yyv0XaxJjvFB4b8w.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/6-Yyv0XaxJjvFB4b8w.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=1085,fit=crop/m7VbV7Xzo2ue48xJ/3-YbNJn1L8K7SbOX3E.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/3-YbNJn1L8K7SbOX3E.png"
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "id": "zGGfd6",
+          "label": "Section 4 (zGGfd6)",
+          "headings": [],
+          "paragraphs": [],
+          "links": [
+            {
+              "text": "",
+              "href": "/institutional-projects"
+            },
+            {
+              "text": "",
+              "href": "/institutional-projects"
+            },
+            {
+              "text": "",
+              "href": "/commercial-projects"
+            },
+            {
+              "text": "",
+              "href": "/commercial-projects"
+            },
+            {
+              "text": "",
+              "href": "/healthcare-projects"
+            },
+            {
+              "text": "",
+              "href": "/healthcare-projects"
+            },
+            {
+              "text": "",
+              "href": "/residential-projects"
+            },
+            {
+              "text": "",
+              "href": "/residential-projects"
+            },
+            {
+              "text": "",
+              "href": "/interior-projects"
+            },
+            {
+              "text": "",
+              "href": "/interior-projects"
+            },
+            {
+              "text": "",
+              "href": "/hospitality-projects"
+            },
+            {
+              "text": "",
+              "href": "/hospitality-projects"
+            }
+          ],
+          "buttons": [],
+          "form_fields": [],
+          "iframes": [],
+          "images": [
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=973,fit=crop/m7VbV7Xzo2ue48xJ/miscellaneous-YanJ6glozEfgazPJ.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/miscellaneous-YanJ6glozEfgazPJ.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=1219,fit=crop/m7VbV7Xzo2ue48xJ/2-YbNJnxM6loUv1K2v.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/2-YbNJnxM6loUv1K2v.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=973,fit=crop/m7VbV7Xzo2ue48xJ/3-mjEGPWkjj5UpMnbD.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/3-mjEGPWkjj5UpMnbD.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=973,fit=crop/m7VbV7Xzo2ue48xJ/5-ALpPBlwjDysjnNb2.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/5-ALpPBlwjDysjnNb2.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=973,fit=crop/m7VbV7Xzo2ue48xJ/6-Yg2yLxkEBRcgoRNg.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/6-Yg2yLxkEBRcgoRNg.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=973,fit=crop/m7VbV7Xzo2ue48xJ/1-dWxOeja6y2s179yB.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/1-dWxOeja6y2s179yB.png"
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "id": "z_2Nv2",
+          "label": "About Architects Atelier",
+          "headings": [
+            "About Architects Atelier"
+          ],
+          "paragraphs": [
+            "Ar. Gaurav Saini, co-founder and partner of ARCHITECTS ATELIER , has been practicing in Greater Noida since 2005, alongside Ar. Mamta Saini.",
+            "With a Bachelor's degree from GCA, Lucknow, U.P., a Master's in Ekistics from Jamia Millia Islamia, New Delhi, and a second Master's in Town & Country Planning from the Institute of Town Planners India, New Delhi.",
+            "ARCHITECTS ATELIER deals with various project types including Healthcare, Institutional, Commercial, Hospitality, and High-End Residential projects.",
+            "His diverse educational background and extensive experience make him a valuable asset in the field of Architecture and Planning."
+          ],
+          "links": [
+            {
+              "text": "Explore Our Portfolio",
+              "href": "/about-architects-atelier"
+            }
+          ],
+          "buttons": [],
+          "form_fields": [],
+          "iframes": [],
+          "images": [
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=859,fit=crop/m7VbV7Xzo2ue48xJ/ar.-gaurav-saini-ar.-mamta-saini-qkip36o86l9wpb7go61duovwl9l109oc8zquw7h4zg-mv0J0v6M2jUWBn5K.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/ar.-gaurav-saini-ar.-mamta-saini-qkip36o86l9wpb7go61duovwl9l109oc8zquw7h4zg-mv0J0v6M2jUWBn5K.png"
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "id": "z_I5y1",
+          "label": "Our Collaborations",
+          "headings": [
+            "Our Collaborations"
+          ],
+          "paragraphs": [],
+          "links": [],
+          "buttons": [],
+          "form_fields": [],
+          "iframes": [],
+          "images": []
+        },
+        {
+          "index": 7,
+          "id": "zWrf4m",
+          "label": "Section 7 (zWrf4m)",
+          "headings": [],
+          "paragraphs": [],
+          "links": [],
+          "buttons": [],
+          "form_fields": [],
+          "iframes": [],
+          "images": [
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/m7VbV7Xzo2ue48xJ/screenshot-2025-06-19-100919-AzGNkjoKMnS7kz93.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/screenshot-2025-06-19-100919-AzGNkjoKMnS7kz93.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/m7VbV7Xzo2ue48xJ/screenshot-2025-06-19-100425-AR03n2og3RFwz3vQ.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/screenshot-2025-06-19-100425-AR03n2og3RFwz3vQ.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/m7VbV7Xzo2ue48xJ/product-ALpPDBKgZaSO7B45.jpg",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/product-ALpPDBKgZaSO7B45.jpg"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/m7VbV7Xzo2ue48xJ/indian-oil-logo-png_seeklogo-198933-A0xj2eMXpxF5Kr0V.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/indian-oil-logo-png_seeklogo-198933-A0xj2eMXpxF5Kr0V.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/m7VbV7Xzo2ue48xJ/images-YNq2ZOGg2MIp0Qx9.jpg",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/images-YNq2ZOGg2MIp0Qx9.jpg"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/m7VbV7Xzo2ue48xJ/images-1-mxBX0jgKN9fQN6NP.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/images-1-mxBX0jgKN9fQN6NP.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/m7VbV7Xzo2ue48xJ/channels4_profile-A85Vk2xXzjt03Xjo.jpg",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/channels4_profile-A85Vk2xXzjt03Xjo.jpg"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/m7VbV7Xzo2ue48xJ/bharat-petroleum-logo-png_seeklogo-472000-YBgb5l6XKpSWNaLp.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/bharat-petroleum-logo-png_seeklogo-472000-YBgb5l6XKpSWNaLp.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/m7VbV7Xzo2ue48xJ/1662623232573-dJob8eyg2ZIBKNBJ.jpg",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/1662623232573-dJob8eyg2ZIBKNBJ.jpg"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/m7VbV7Xzo2ue48xJ/screenshot-2025-06-19-101244-AQEZG8NE2DSPl2bA.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/screenshot-2025-06-19-101244-AQEZG8NE2DSPl2bA.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/m7VbV7Xzo2ue48xJ/images-m2WEMB3Xn9SoZkWk.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/images-m2WEMB3Xn9SoZkWk.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/m7VbV7Xzo2ue48xJ/images-2-Yyv0qXzwJ3U3ZX8P.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/images-2-Yyv0qXzwJ3U3ZX8P.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/m7VbV7Xzo2ue48xJ/rss-AzGNk8OEpxhvG57W.webp",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/rss-AzGNk8OEpxhvG57W.webp"
+            },
+            {
+              "alt": "Woman with flowers in hair",
+              "src": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/cdn-builder-placeholders/grid-gallery/woman-with-flowers-in-hair.png",
+              "original_url": "https://cdn.zyrosite.com/cdn-builder-placeholders/grid-gallery/woman-with-flowers-in-hair.png"
+            },
+            {
+              "alt": "Microscope water bubbles",
+              "src": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/cdn-builder-placeholders/grid-gallery/microscope-water-bubbles.png",
+              "original_url": "https://cdn.zyrosite.com/cdn-builder-placeholders/grid-gallery/microscope-water-bubbles.png"
+            },
+            {
+              "alt": "",
+              "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/m7VbV7Xzo2ue48xJ/pp-AoP0LMM1VPTawJL6.png",
+              "original_url": "https://assets.zyrosite.com/m7VbV7Xzo2ue48xJ/pp-AoP0LMM1VPTawJL6.png"
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "id": "zGHx6N",
+          "label": "Our Locations",
+          "headings": [
+            "Our Locations"
+          ],
+          "paragraphs": [],
+          "links": [],
+          "buttons": [],
+          "form_fields": [],
+          "iframes": [
+            ""
+          ],
+          "images": []
+        },
+        {
+          "index": 9,
+          "id": "z05MHC",
+          "label": "Section 9 (z05MHC)",
+          "headings": [],
+          "paragraphs": [],
+          "links": [],
+          "buttons": [],
+          "form_fields": [],
+          "iframes": [],
+          "images": []
+        },
+        {
+          "index": 10,
+          "id": "z3Jk9s",
+          "label": "Get In Touch",
+          "headings": [
+            "Get In Touch"
+          ],
+          "paragraphs": [],
+          "links": [
+            {
+              "text": "Give Us A Call",
+              "href": "tel:981199639"
+            }
+          ],
+          "buttons": [
+            "Submit"
+          ],
+          "form_fields": [
+            "Name",
+            "Phone Number*",
+            "Project Location",
+            "Project Type",
+            "Residential Architecture",
+            "Commercial Architecture",
+            "Interior Design",
+            "Urban Planning Consultation",
+            "placeholder:Your name",
+            "placeholder:Number",
+            "placeholder:Location"
+          ],
+          "iframes": [],
+          "images": []
+        },
+        {
+          "index": 11,
+          "id": "BoDDpTb46q73lkBYlXR0o",
+          "label": "Architects Atelier",
+          "headings": [
+            "Architects Atelier",
+            "Services"
+          ],
+          "paragraphs": [
+            "About Us",
+            "Home",
+            "Projects",
+            "Team",
+            "Work With Us",
+            "Contact Us",
+            "Address : H123, Delta 2, Greater Noida, UP - 201310",
+            "Timings: Monday To Saturday (9:30 AM - 7 PM)",
+            "Book an Appointment Before Coming....",
+            "Phone: 9811399639 9891643541 1203571286",
+            "Creating exceptional architectural experiences with innovative design and timeless elegance since 2005.",
+            "Quick Links",
+            "Residential Design Commercial Architecture Interior Design",
+            "Consultation",
+            "Contact Info",
+            "Email: enquiries@architectsatelier.net",
+            "© 2024 Architects Atelier. All Rights Reserved."
+          ],
+          "links": [
+            {
+              "text": "About Us",
+              "href": "/about-architects-atelier"
+            },
+            {
+              "text": "Home",
+              "href": "/"
+            },
+            {
+              "text": "Projects",
+              "href": "/types-of-projects"
+            },
+            {
+              "text": "Team",
+              "href": "/meet-our-team"
+            },
+            {
+              "text": "Work With Us",
+              "href": "/work-with-us"
+            },
+            {
+              "text": "Contact Us",
+              "href": "/contact-us"
+            },
+            {
+              "text": "",
+              "href": "https://www.facebook.com/p/Architects-Atelier-100064176935537/"
+            },
+            {
+              "text": "",
+              "href": "https://www.instagram.com/architects.atelier?igsh=OThjZnhmcmxvdnRu"
+            },
+            {
+              "text": "",
+              "href": "https://in.linkedin.com/company/architectsatelier"
+            },
+            {
+              "text": "Residential Design",
+              "href": "/residential-projects"
+            },
+            {
+              "text": "Commercial Architecture",
+              "href": "/commercial-projects"
+            },
+            {
+              "text": "Interior Design",
+              "href": "/interior-projects"
+            },
+            {
+              "text": "Consultation",
+              "href": "/contact-us"
+            },
+            {
+              "text": "Privacy Policy",
+              "href": "/privacy-policy"
+            },
+            {
+              "text": "Terms Of Service",
+              "href": "/terms-and-services"
+            },
+            {
+              "text": "Give Us A Call",
+              "href": "tel:981199639"
+            }
+          ],
+          "buttons": [],
+          "form_fields": [],
+          "iframes": [],
+          "images": []
+        }
+      ],
+      "contact": {
+        "address": "H123, Delta 2, Greater Noida, UP - 201310",
+        "timings": "Monday To Saturday (9:30 AM - 7 PM)",
+        "phones": [
+          "9811399639",
+          "9891643541",
+          "1203571286"
+        ],
+        "tel_href": "tel:981199639",
+        "email": "enquiries@architectsatelier.net"
+      },
+      "social_links": [
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/p/Architects-Atelier-100064176935537/"
+        },
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/architects.atelier?igsh=OThjZnhmcmxvdnRu"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "https://in.linkedin.com/company/architectsatelier"
+        },
+        {
+          "platform": "Google Review",
+          "url": "https://g.page/r/CTg5TviJS5s4EAQ/review"
+        }
+      ],
+      "footer_copyright": "© 2024 Architects Atelier. All Rights Reserved."
+    }
+  ],
+  "discovered_internal_routes_not_captured": [
+    "/about-architects-atelier",
+    "/architects-in-noida",
+    "/commercial-projects",
+    "/contact-us",
+    "/healthcare-projects",
+    "/hospitality-projects",
+    "/institutional-projects",
+    "/interior-projects",
+    "/meet-our-team",
+    "/privacy-policy",
+    "/residential-projects",
+    "/terms-and-services",
+    "/types-of-projects",
+    "/work-with-us"
+  ],
+  "external_links": [
+    "https://blog.architectsatelier.net/",
+    "https://g.page/r/CTg5TviJS5s4EAQ/review",
+    "https://in.linkedin.com/company/architectsatelier",
+    "https://www.facebook.com/p/Architects-Atelier-100064176935537/",
+    "https://www.instagram.com/architects.atelier?igsh=OThjZnhmcmxvdnRu",
+    "tel:981199639"
+  ]
+}
