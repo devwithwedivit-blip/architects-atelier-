@@ -1,0 +1,10 @@
+{
+  "name": "architects-atelier",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Architects Atelier website migration on the MAD layout with local Sanity/Next.js emulation and SVG hero motion logo.",
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
