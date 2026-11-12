@@ -46,14 +46,39 @@ function handleSanityQuery(urlObj, res) {
   const typology = parseParamVal(urlObj.searchParams.get('$typology'));
   const location = parseParamVal(urlObj.searchParams.get('$location'));
   const status = parseParamVal(urlObj.searchParams.get('$status'));
+  const slug = parseParamVal(urlObj.searchParams.get('$slug'));
+  const skipParam = parseParamVal(urlObj.searchParams.get('$skip'));
+  const amountParam = parseParamVal(urlObj.searchParams.get('$amount'));
+  const limitParam = parseParamVal(urlObj.searchParams.get('$limit'));
 
   let result;
-  if (query.includes('projectTypology') && !query.includes('featuredProjects') && !query.includes('$searchQuery')) {
-    result = ['Institutional', 'Commercial', 'Healthcare', 'Hospitality', 'Interior', 'Residential'].map(name => ({ name }));
-  } else if (query.includes('articleTypology') && !query.includes('featuredProjects')) {
-    result = searchQuery
-      ? DATASET.articles.filter(a => a.title.toLowerCase().includes(searchQuery))
-      : DATASET.articles;
+  if (query.includes('_type == "projectTypology"') || (query.includes('projectTypology') && !query.includes('featuredProjects') && !query.includes('$searchQuery'))) {
+    result = ['Institutional', 'Commercial', 'Healthcare', 'Hospitality', 'Interior', 'Residential'].map(name => ({ name, type: 'project' }));
+  } else if (query.includes('_type == "articleTypology"')) {
+    result = ['Collaboration', 'Showreel'].map(name => ({ name, type: 'article' }));
+  } else if (query.includes('_type == "article"') || (query.includes('articleTypology') && !query.includes('featuredProjects'))) {
+    let list = [...DATASET.articles];
+    if (searchQuery) {
+      list = list.filter(a =>
+        a.title.toLowerCase().includes(searchQuery) ||
+        (a.articleTypology?.name || '').toLowerCase().includes(searchQuery)
+      );
+    }
+    if (slug && query.includes('slug.current != $slug')) {
+      list = list.filter(a => a.slug?.current !== slug);
+    } else if (slug && query.includes('slug.current == $slug')) {
+      list = list.filter(a => a.slug?.current === slug);
+    }
+    if (typology && query.includes('== $typology')) {
+      list = list.filter(a => a.articleTypology?.name === typology);
+    }
+    const start = Number.isFinite(Number(skipParam)) ? Number(skipParam) : 0;
+    const end = Number.isFinite(Number(amountParam))
+      ? Number(amountParam)
+      : Number.isFinite(Number(limitParam))
+        ? start + Number(limitParam)
+        : list.length;
+    result = list.slice(start, end);
   } else if (searchQuery) {
     result = DATASET.projects.filter(
       p => p.title.toLowerCase().includes(searchQuery) ||
@@ -168,3 +193,4 @@ const server = http.createServer((req, res) => {
 server.listen(PORT, '0.0.0.0', () => {
   console.log(`Architects Atelier live at http://localhost:${PORT}`);
 });
+

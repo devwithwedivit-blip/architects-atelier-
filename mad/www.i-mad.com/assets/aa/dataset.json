@@ -1603,7 +1603,46 @@
       "articleTypology": {
         "name": "Collaboration"
       },
-      "excerpt": "Partner organization featured in Architects Atelier Collaborations."
+      "excerpt": "Partner organization featured in Architects Atelier Collaborations.",
+      "metadata": {
+        "metaTitle": "Indian Oil Corporation — Collaboration | Architects Atelier",
+        "metaDescription": "Architects Atelier, founded in 2004 by Ar. Mamta Saini and Ar. Gaurav Saini, is a Greater Noida-based architectural and design firm committed to enhancing quality of life through thoughtful, human-centric design solutions. We re the Best Architects In Greater Noida.",
+        "metaKeyWords": "Architects in Greater Noida, Best architecture firms in Noida, Modern architecture design India",
+        "thumbnail": {
+          "asset": {
+            "url": "http://localhost:5445/images/2d8zs6ec/production/aa02screenshot20250614173312yg2y-613x226.png",
+            "metadata": {
+              "lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBv/EACcQAAIBAwIDCQAAAAAAAAAAAAECAwAEERIhBQYxEyJBRFJhg5HB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A0NububmZ+wvbwOlxKkkTszRRrofQdOwIzpOx8R0yKpcSa+itZbhOJXEaRzHIhtFkJU90KBucAkZPsegIxW858f7TaJMNJtY5ooQs87Tv6mUKfobUU6ikP//Z",
+              "dimensions": {
+                "aspectRatio": 2.7124,
+                "width": 613,
+                "height": 226
+              },
+              "palette": {
+                "lightMuted": {
+                  "background": "#e5e5e5"
+                }
+              }
+            }
+          }
+        }
+      },
+      "content": [
+        {
+          "_key": "art-collaboration-indian-oil",
+          "_type": "block",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_key": "art-collaboration-indian-oilc",
+              "_type": "span",
+              "marks": [],
+              "text": "Partner organization featured in Architects Atelier Collaborations."
+            }
+          ]
+        }
+      ]
     },
     {
       "title": "Bharat Petroleum — Collaboration",
@@ -1632,7 +1671,46 @@
       "articleTypology": {
         "name": "Collaboration"
       },
-      "excerpt": "Partner organization featured in Architects Atelier Collaborations."
+      "excerpt": "Partner organization featured in Architects Atelier Collaborations.",
+      "metadata": {
+        "metaTitle": "Bharat Petroleum — Collaboration | Architects Atelier",
+        "metaDescription": "Architects Atelier, founded in 2004 by Ar. Mamta Saini and Ar. Gaurav Saini, is a Greater Noida-based architectural and design firm committed to enhancing quality of life through thoughtful, human-centric design solutions. We re the Best Architects In Greater Noida.",
+        "metaKeyWords": "Architects in Greater Noida, Best architecture firms in Noida, Modern architecture design India",
+        "thumbnail": {
+          "asset": {
+            "url": "http://localhost:5445/images/2d8zs6ec/production/aa02screenshot20250614173312yg2y-613x226.png",
+            "metadata": {
+              "lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBv/EACcQAAIBAwIDCQAAAAAAAAAAAAECAwAEERIhBQYxEyJBRFJhg5HB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A0NububmZ+wvbwOlxKkkTszRRrofQdOwIzpOx8R0yKpcSa+itZbhOJXEaRzHIhtFkJU90KBucAkZPsegIxW858f7TaJMNJtY5ooQs87Tv6mUKfobUU6ikP//Z",
+              "dimensions": {
+                "aspectRatio": 2.7124,
+                "width": 613,
+                "height": 226
+              },
+              "palette": {
+                "lightMuted": {
+                  "background": "#e5e5e5"
+                }
+              }
+            }
+          }
+        }
+      },
+      "content": [
+        {
+          "_key": "art-collaboration-bharat-petroleum",
+          "_type": "block",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_key": "art-collaboration-bharat-petroleumc",
+              "_type": "span",
+              "marks": [],
+              "text": "Partner organization featured in Architects Atelier Collaborations."
+            }
+          ]
+        }
+      ]
     },
     {
       "title": "Architects Atelier Showreel Motion Study I",
@@ -1661,7 +1739,46 @@
       "articleTypology": {
         "name": "Showreel"
       },
-      "excerpt": "Architectural visualization reel from Architects Atelier homepage."
+      "excerpt": "Architectural visualization reel from Architects Atelier homepage.",
+      "metadata": {
+        "metaTitle": "Architects Atelier Showreel Motion Study I | Architects Atelier",
+        "metaDescription": "Architects Atelier, founded in 2004 by Ar. Mamta Saini and Ar. Gaurav Saini, is a Greater Noida-based architectural and design firm committed to enhancing quality of life through thoughtful, human-centric design solutions. We re the Best Architects In Greater Noida.",
+        "metaKeyWords": "Architects in Greater Noida, Best architecture firms in Noida, Modern architecture design India",
+        "thumbnail": {
+          "asset": {
+            "url": "http://localhost:5445/images/2d8zs6ec/production/aa02screenshot20250614173312yg2y-613x226.png",
+            "metadata": {
+              "lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBv/EACcQAAIBAwIDCQAAAAAAAAAAAAECAwAEERIhBQYxEyJBRFJhg5HB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A0NububmZ+wvbwOlxKkkTszRRrofQdOwIzpOx8R0yKpcSa+itZbhOJXEaRzHIhtFkJU90KBucAkZPsegIxW858f7TaJMNJtY5ooQs87Tv6mUKfobUU6ikP//Z",
+              "dimensions": {
+                "aspectRatio": 2.7124,
+                "width": 613,
+                "height": 226
+              },
+              "palette": {
+                "lightMuted": {
+                  "background": "#e5e5e5"
+                }
+              }
+            }
+          }
+        }
+      },
+      "content": [
+        {
+          "_key": "art-motion-study-1",
+          "_type": "block",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_key": "art-motion-study-1c",
+              "_type": "span",
+              "marks": [],
+              "text": "Architectural visualization reel from Architects Atelier homepage."
+            }
+          ]
+        }
+      ]
     },
     {
       "title": "Architects Atelier Showreel Motion Study II",
@@ -1690,7 +1807,46 @@
       "articleTypology": {
         "name": "Showreel"
       },
-      "excerpt": "Architectural visualization reel from Architects Atelier homepage."
+      "excerpt": "Architectural visualization reel from Architects Atelier homepage.",
+      "metadata": {
+        "metaTitle": "Architects Atelier Showreel Motion Study II | Architects Atelier",
+        "metaDescription": "Architects Atelier, founded in 2004 by Ar. Mamta Saini and Ar. Gaurav Saini, is a Greater Noida-based architectural and design firm committed to enhancing quality of life through thoughtful, human-centric design solutions. We re the Best Architects In Greater Noida.",
+        "metaKeyWords": "Architects in Greater Noida, Best architecture firms in Noida, Modern architecture design India",
+        "thumbnail": {
+          "asset": {
+            "url": "http://localhost:5445/images/2d8zs6ec/production/aa02screenshot20250614173312yg2y-613x226.png",
+            "metadata": {
+              "lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBv/EACcQAAIBAwIDCQAAAAAAAAAAAAECAwAEERIhBQYxEyJBRFJhg5HB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A0NububmZ+wvbwOlxKkkTszRRrofQdOwIzpOx8R0yKpcSa+itZbhOJXEaRzHIhtFkJU90KBucAkZPsegIxW858f7TaJMNJtY5ooQs87Tv6mUKfobUU6ikP//Z",
+              "dimensions": {
+                "aspectRatio": 2.7124,
+                "width": 613,
+                "height": 226
+              },
+              "palette": {
+                "lightMuted": {
+                  "background": "#e5e5e5"
+                }
+              }
+            }
+          }
+        }
+      },
+      "content": [
+        {
+          "_key": "art-motion-study-2",
+          "_type": "block",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_key": "art-motion-study-2c",
+              "_type": "span",
+              "marks": [],
+              "text": "Architectural visualization reel from Architects Atelier homepage."
+            }
+          ]
+        }
+      ]
     }
   ],
   "featuredProjects": [
